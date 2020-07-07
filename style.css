@@ -1,0 +1,39 @@
+.container{
+    margin:0px;
+    padding:0px;
+    margin-left:150px;
+}
+.logo-img{
+    position: absolute;
+    width: 198.07px;
+    height: 59px;
+    top: 30px;
+    margin-right:100px;
+}
+.heading5{
+    padding-left: 180px;
+    color:#FD511A;
+    font-size: 16px;
+}
+#green-font{
+    color:#21B573;
+}
+#learn{
+    padding-left: 50px;
+    color: #000000;
+    font-weight: bold;
+    font-size: 48px;
+}
+.para1{
+    color: #6C6B6B;
+    font-family: Poppins;
+    font-weight: normal;
+    font-size: 16px;
+}
+.button{
+    background-color: #21B573;
+    color:#FFFFFF;
+    position: static;
+    font-size: 16px;
+    border-radius: 50px;
+}
