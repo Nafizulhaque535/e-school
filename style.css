@@ -1,7 +1,7 @@
 .container{
     margin:0px;
     padding:0px;
-    margin-left:150px;
+    margin-left:80px;
 }
 .logo-img{
     position: absolute;
@@ -11,7 +11,7 @@
     margin-right:100px;
 }
 .heading5{
-    padding-left: 180px;
+    padding-left: 80px;
     color:#FD511A;
     font-size: 16px;
 }
@@ -19,16 +19,24 @@
     color:#21B573;
 }
 #learn{
-    padding-left: 50px;
+    padding-left: 80px;
     color: #000000;
     font-weight: bold;
     font-size: 48px;
 }
 .para1{
     color: #6C6B6B;
+    padding-left: 80px;
     font-family: Poppins;
     font-weight: normal;
     font-size: 16px;
+}
+.sign-in{
+    background-color: #21B573;
+    color:#FFFFFF;
+    position: static;
+    font-size: 16px;
+    border-radius: 30px;
 }
 .button{
     background-color: #21B573;
@@ -36,4 +44,85 @@
     position: static;
     font-size: 16px;
     border-radius: 50px;
+    margin:30px;
+}
+.card{
+    border:none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    margin:30px;
+}
+#books{
+    width: 600px;
+    height: 270px;
+    left: 300px;
+    top: 618px;
+    position: absolute;
+}
+#online-courses{
+    color:#413960;
+    text-align:center;
+    font-weight: bold;
+    font-size: 36px;
+}
+.modern-psychology{
+    color: #413960;
+    font-weight: 500;
+    font-size: 24px;
+    font-family: Poppins;
+    padding:5px;
+}
+.man-image{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 353px;
+    top: 1787px;
+}
+.man-heading{
+    position: absolute;
+    width: 219px;
+    height: 54px;
+    left: 635px;
+    top: 1666px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+}
+.testimonial{
+    position: absolute;
+    width: 580px;
+    height: 90px;
+    left: 525px;
+    top: 1796px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    color: #000000;
+}
+.final-box{
+    background-color: #282531;
+    position: absolute;
+    width: 1440px;
+    height: 369px;
+    left: 0px;
+    top: 2013px;
+    color: #FFFFFF;
+}
+.box-para{
+    text-align: center;
+    font-size: 16px;
+    font-family: Poppins;
+}
+.skill1, .skill2, .skill3{
+    font-size: 200px;
+    color:#FFFFFF;
+    padding-left: 150px;
+    margin:30px;
+}
+.footer{
+    text-align:center;
 }
